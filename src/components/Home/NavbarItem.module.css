@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+.navbaritem {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  justify-content: space-between;
+}
+.navbaritem :active {
+  border-radius: 5px;
+  border-color: blue;
+  border-width: 2px;
+}
+.img {
+  margin-top: 10px;
+  width: 25px;
+  height: 25px;
+}

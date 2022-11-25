@@ -1,0 +1,24 @@
+.name {
+  display: flex;
+  flex-wrap: row;
+  justify-content: space-between;
+}
+img {
+  margin: 9px;
+  width: 200px;
+  float: left;
+  height: 235px;
+  border-radius: 9px;
+}
+.content {
+  margin-left: 20px;
+  line-height: 2rem;
+}
+.btn__save {
+  float: right;
+}
+.ft {
+  display: flex;
+  flex-wrap: row;
+  justify-content: space-between;
+}

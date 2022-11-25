@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+.navbar__wrap {
+  background-color: rgb(100, 100, 255);
+}
+.navbar {
+  width: 998px;
+  color: white;
+  padding: 1rem;
+  margin-left: 13%;
+}
+.button {
+  float: right;
+  margin-right: 1rem;
+  background-color: white;
+}
+.navbaritem {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  justify-content: flex-start;
+}

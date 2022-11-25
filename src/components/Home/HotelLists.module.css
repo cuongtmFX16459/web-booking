@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.hotels__wrap {
+  width: 998px;
+  margin-left: 13%;
+}
+.hotels {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  line-height: 2rem;
+}
+.img {
+  width: 180px;
+  height: 180px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+h1 {
+  margin-top: 50px;
+}
+.text {
+  padding: 5px;
+}

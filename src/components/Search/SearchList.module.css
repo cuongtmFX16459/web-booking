@@ -1,0 +1,8 @@
+.list {
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+  margin-top: 50px;
+  width: 700px;
+}

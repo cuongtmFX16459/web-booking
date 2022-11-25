@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+.city {
+  width: 998px;
+  margin-left: 13%;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.text {
+  margin-left: 30px;
+  color: #fff;
+  position: absolute;
+  top: 75%;
+}
+.img {
+  width: 315px;
+  border-radius: 12px;
+}

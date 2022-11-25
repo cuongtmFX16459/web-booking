@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+.wrap {
+  max-width: 998px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.popup {
+  flex: 30%;
+}
+
+.list {
+  flex: 70%;
+}

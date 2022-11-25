@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.hotels__wrap {
+  width: 998px;
+  margin-left: 13%;
+}
+.hotels {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  line-height: 2rem;
+}
+.img {
+  width: 220px;
+  height: 200px;
+  border-radius: 0px;
+}
+.text {
+  padding: 5px;
+}
+.rate {
+  background-color: blue;
+}
+.h3 {
+  display: flex;
+  justify-content: flex-start;
+}
